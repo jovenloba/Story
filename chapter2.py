@@ -10,4 +10,5 @@ class test():
 
 if __name__ == "__main__":
     import sys
-    sqlParam = ('localhost', 'jovenschema', 'root', 'Acoje1985**')
+    sqlParam = ('localhost', 'jovenschema', 'root', 'Acoje1985 **')
+    print('x')
